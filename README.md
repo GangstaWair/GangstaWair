@@ -6,7 +6,7 @@ A beginning "fullstack" developer from Ukraine
 
 - 🔭 I’m currently working on [RavenRP](https://discord.gg/T8HfpaNzwm)
 
-- 🌱 I’m currently learning **C# and JacaScript**
+- 🌱 I’m currently learning **C# and JavaScript**
 
 - ⚡ Fun fact **"C" languages ​​are the best!**
 
